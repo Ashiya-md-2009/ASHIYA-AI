@@ -1,4 +1,4 @@
-name = "ashiya-ai-worker"
+name = "ashiya-ai"
 main = "src/index.js"
 compatibility_date = "2025-08-31"
 
